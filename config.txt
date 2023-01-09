@@ -1,0 +1,10 @@
+usr0 fifo_usr0
+usr1 fifo_usr1
+usr2 fifo_usr2
+usr3 fifo_usr3
+usr4 fifo_usr4
+usr5 fifo_usr5
+usr6 fifo_usr6
+usr7 fifo_usr7
+usr8 fifo_usr8
+usr9 fifo_usr9
