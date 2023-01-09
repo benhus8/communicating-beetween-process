@@ -8,11 +8,11 @@ How to run:
 gcc -o project main.c
 ./project usr1
 ```
-Pattern:
+Pattern: \\
 process_name_to_execute_comand "command" "fifo_queue_name_to_send_result"
 Example commands:
 ```
-> usr1 "ls" "fifoQueueName:
+> usr1 "ls" "fifoQueueName"
 > exit
 ```
 if you want to clear all created fifo files during the program you should exit program by typing exit.
