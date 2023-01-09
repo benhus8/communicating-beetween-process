@@ -8,14 +8,14 @@ How to run:
 gcc -o project main.c
 ./project usr1
 ```
-Pattern:\ 
-process_name_to_execute_comand "command" "fifo_queue_name_to_send_result"
+Pattern:<br /> 
+process_name_to_execute_comand "command" "fifo_queue_name_to_send_result" <br />
 Example commands:
 ```
 > usr1 "ls" "fifoQueueName"
 > exit
 ```
-if you want to clear all created fifo files during the program you should exit program by typing exit.
+If you want to clear all created fifo files during the program you should exit program by typing exit.
 
 #### How it works
 The program takes argument (in our example "user1") open the config file and searching for fifo file name which is connected with argument name.
