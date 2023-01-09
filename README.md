@@ -8,7 +8,7 @@ How to run:
 gcc -o project main.c
 ./project usr1
 ```
-Pattern: 
+Pattern:\ 
 process_name_to_execute_comand "command" "fifo_queue_name_to_send_result"
 Example commands:
 ```
