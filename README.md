@@ -1,7 +1,7 @@
 ### PSiW
-##### Final project on the Poznan Univeristy of Technology
+#### Final project on the Poznan Univeristy of Technology
 Project was created to pass the subject "system and concurrent programming" (pl: Programowanie systemowe i Współbieżne).
-##### Tutorial
+#### Tutorial
 How to run:
 ```
 gcc -o project main.c
